@@ -39,3 +39,25 @@
     font-family: 'Sarala', sans-serif;
     margin-top: 15px;
 }
+
+@media(max-width: 1200px){
+    .main-container{
+        display: grid;
+    }
+    
+    .main-title{
+        font-size: 30px;
+    }
+}
+
+@media(max-width: 992px){
+    .main-title{
+        font-size: 23px;
+    }
+}
+
+@media(max-width: 992px){
+    .main-title{
+        font-size: 20px;
+    }
+}

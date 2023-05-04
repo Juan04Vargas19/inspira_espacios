@@ -31,3 +31,37 @@
 .navbar-logo{
     width: 350px;
 }
+
+@media(max-width: 1200px){
+    .navbar-logo{
+        width: 250px;
+    }
+    
+    .navbar-container div ul{
+        font-size: 20px;
+    }
+}
+
+@media(max-width: 992px){
+    .navbar-logo{
+        width: 200px;
+    }
+    
+    .navbar-container div ul{
+        font-size: 17px;
+    }
+}
+
+@media(max-width: 768px){
+    .navbar-logo{
+        width: 150px;
+    }
+    
+    .navbar-container div ul{
+        font-size: 15px;
+    }
+
+    .navbar-container div ul li{
+        padding: 0 10px;
+    }
+}

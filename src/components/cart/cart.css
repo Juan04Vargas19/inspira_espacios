@@ -12,3 +12,9 @@
 .cart-container p{
     padding-left: 5px;
 }
+
+@media(max-width: 768px){
+    .cart-container{
+        margin-left: 10px;
+    }
+}
