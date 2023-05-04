@@ -1,0 +1,14 @@
+.cart-container{
+    display: flex;
+    background: white;
+    color: black;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 10px;
+    border-radius: 10%;
+    margin-left:50px;
+}
+
+.cart-container p{
+    padding-left: 5px;
+}

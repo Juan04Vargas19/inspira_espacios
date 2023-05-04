@@ -1,0 +1,33 @@
+.navbar-container{
+    display: flex;
+    background: black;
+    color: white; 
+    justify-content: center;
+}
+
+.navbar-container-content{
+    max-width: 1400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.navbar-container div ul{
+    display: flex;
+    list-style: none;
+    font-size: 25px;
+    padding-left: 20px;
+}
+
+.navbar-container div ul li{
+    padding: 0px 20px;
+}
+
+.navbar-container div ul li a{
+    color: white;
+    text-decoration: none;
+}
+
+.navbar-logo{
+    width: 350px;
+}
