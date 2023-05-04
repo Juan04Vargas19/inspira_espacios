@@ -30,11 +30,11 @@
 }
 
 .main-greet-btn{
-    background-color: rgb(211, 211, 211);
+    background-color: white;
+    cursor: pointer;
     width: 80px;
     height: 30px;
     border: 1px solid black;
-    border-radius: 8px;
     font-family: 'Alef', sans-serif;
     font-family: 'Sarala', sans-serif;
     margin-top: 15px;
